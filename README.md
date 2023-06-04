@@ -37,10 +37,9 @@ plt.plot(x,y_pred, color="orange")
 plt.show()
 ```
 ## Output
-</br>
+
 ![MAI 9i](https://github.com/BALA291/Univariate-Linear-Regression/assets/120717501/4602ae5b-0975-4ace-a070-a0479dcd2eaa)
 
-</br>
 ![mai 9ii](https://github.com/BALA291/Univariate-Linear-Regression/assets/120717501/e6656fc1-eeb6-409f-a323-41f446b5f0d8)
 
 ## Result
